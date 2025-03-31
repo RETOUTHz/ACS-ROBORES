@@ -36,7 +36,7 @@ source ~/rmrc_ws/devel/setup.bash
 
 in terminal
 ```bash
-git clone https://github.com/RETOUTHz/ACS-ROBORES?tab=readme-ov-file
+git clone https://github.com/RETOUTHz/ACS-ROBORES.git
 ```
 
 
