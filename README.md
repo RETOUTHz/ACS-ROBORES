@@ -10,6 +10,34 @@ It is a robot designed and developed specifically for rescue operations, helping
 ## SetUp
 * [Ubuntu 20.04](https://releases.ubuntu.com/focal/)
 * [ROS SetUp (Noetic)](https://wiki.ros.org/noetic/Installation/Ubuntu)
+*[Create a workspace](https://wiki.ros.org/catkin/Tutorials/create_a_workspace)
+
+## Create New Workspace
+
+open terminal
+
+```bash
+mkdir -p ~/rmrc_ws/src
+cd ~/rmrc_ws/
+catkin_make
+```
+
+```bash
+source devel/setup.bash
+```
+```bash
+nano .bashrc
+```
+
+Add Commment in .bashrc
+```bash
+source ~/rmrc_ws/devel/setup.bash
+```
+
+```bash
+gitclone https://github.com/RETOUTHz/ACS-ROBORES?tab=readme-ov-file
+```
+
 
 
 
