@@ -5,12 +5,14 @@ It is a robot designed and developed specifically for rescue operations, helping
 
 ## Office Resources
 * [IRAP](https://github.com/TanakornKulsri/iRAP_RMRC?tab=readme-ov-file)
+* [IRAP GUI](https://github.com/NonStopBle/iRAP-Minirescue-GUI)
 * [RoboCupJunior Rescue](https://junior.robocup.org/rescue/)
 
 ## SetUp
 * [Ubuntu 20.04](https://releases.ubuntu.com/focal/)
 * [ROS SetUp (Noetic)](https://wiki.ros.org/noetic/Installation/Ubuntu)
 * [Create a workspace](https://wiki.ros.org/catkin/Tutorials/create_a_workspace)
+* [GUI](https://github.com/RETOUTHz/ACS-ROBORESui)
 
 ## Create New Workspace
 
