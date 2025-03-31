@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find image_process)/launch/usb_cam.launch"/>
+    <node pkg="image_process" type="marker_detect.py" name="detect_marker" output="screen"/>    
+</launch>
