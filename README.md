@@ -10,7 +10,7 @@ It is a robot designed and developed specifically for rescue operations, helping
 ## SetUp
 * [Ubuntu 20.04](https://releases.ubuntu.com/focal/)
 * [ROS SetUp (Noetic)](https://wiki.ros.org/noetic/Installation/Ubuntu)
-*[Create a workspace](https://wiki.ros.org/catkin/Tutorials/create_a_workspace)
+* [Create a workspace](https://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 
 ## Create New Workspace
 
