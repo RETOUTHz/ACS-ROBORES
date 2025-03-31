@@ -34,6 +34,7 @@ Add Commment in .bashrc
 source ~/rmrc_ws/devel/setup.bash
 ```
 
+in terminal
 ```bash
 gitclone https://github.com/RETOUTHz/ACS-ROBORES?tab=readme-ov-file
 ```
