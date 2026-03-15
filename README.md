@@ -11,6 +11,7 @@ It is a robot designed and developed specifically for rescue operations, helping
 ## SetUp
 * [Ubuntu 20.04](https://releases.ubuntu.com/focal/)
 * [ROS SetUp (Noetic)](https://wiki.ros.org/noetic/Installation/Ubuntu)
+* [ROS2 SetUp (Humble)](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
 * [Create a workspace](https://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 * [GUI](https://github.com/RETOUTHz/ACS-ROBORESui)
 
